@@ -14,7 +14,8 @@ CREATE OR REPLACE PACKAGE CRONOMETRO AS
 --
 -- Como Usar:
 --/
----> Exemplo no 
+---> Exemplo no GitHub
+---> https://github.com/wesleydavidsantos/cronometro-PLSQL
 --\
 
 
