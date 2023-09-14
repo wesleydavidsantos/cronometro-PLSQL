@@ -1,4 +1,4 @@
-# cronometro-PLSQL
+# cronometro-PLSQL - Timer with PL/SQL - Script Package
 
 Package PL/SQL para medição precisa de tempos de execução.
 
@@ -11,5 +11,5 @@ Simplifique a otimização de suas aplicações com a ajuda desse Cronômetro PL
 =================
 
 
-Timer with PL/SQL - Script Package
+
 Have you ever needed to time the execution of procedures in the database? Or even multiple procedures simultaneously? A while ago, I developed a timer Package in PL/SQL to ensure precise measurements of execution times. Now, I'm sharing this solution with all of you. The Package provides a comprehensive solution for measuring and validating execution times, even when multiple processes are occurring simultaneously. Easily record the exact duration of any process, gain detailed performance insights, and identify bottlenecks. Integrate this ready-to-use tool into your PL/SQL code and enhance your understanding of the time spent in different parts of the system. Simplify the optimization of your applications with the help of this PL/SQL Timer.
